@@ -21,7 +21,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@edit index.html</vh></v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -64,6 +64,7 @@
 <v t="leo.20170413090854.1"><vh>@edit 20170406.md</vh></v>
 <v t="leo.20170413090943.1"><vh>@edit 20170413.md</vh></v>
 <v t="leo.20170425173819.1"><vh>@edit 20170420.md</vh></v>
+<v t="leo.20170427102802.1"><vh>@edit 20170427.md</vh></v>
 </v>
 </v>
 </v>
